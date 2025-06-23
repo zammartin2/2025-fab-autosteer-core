@@ -1,0 +1,22 @@
+# Кэш Python
+__pycache__/
+*.pyc
+
+# IDE
+.idea/
+.vscode/
+
+# Виртуальные окружения
+env/
+.venv/
+
+# Сборка
+build/
+dist/
+
+# UI-конвертированные файлы
+*.ui.py
+
+# Временные
+*.log
+*.sqlite3
